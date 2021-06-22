@@ -1,0 +1,48 @@
+html {
+    font-size: 15px;
+}
+body {
+  font-family: system-ui;
+    margin: 0;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+}
+h2 {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+#main {
+    margin: 30px 8px;
+    padding: 20px;
+    border-radius: 5px;
+    background: #eee;
+}
+#img {
+    max-width: 100%;
+    display: block;
+    margin: 20px;
+}
+
+#img_div {
+    background: white;
+    padding: 10px;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+}
+li {
+    margin: 15px 0;
+    text-align: left;
+  margin-left: 340px;
+  margin-right: 335px;
+ 
+}
+#quote {
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
